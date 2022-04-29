@@ -1,5 +1,3 @@
-dcdcdcdvnfivfinvifv
-fvnfvnfc
-f mfciv nvf
-dcfncjv fnc vdcm'ojaxsxncilc
-mfcivsx
+export default function rt(){
+    var s=ErrorEvent()
+}
